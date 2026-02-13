@@ -1,0 +1,14 @@
+2026/02/09-10:43:41.332 31d4 Creating DB D:\Task Management\whatsapp_bot_profile\WhatsAppBot\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/02/09-10:43:41.337 31d4 Reusing MANIFEST D:\Task Management\whatsapp_bot_profile\WhatsAppBot\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/09-10:44:16.614 2e30 Level-0 table #5: started
+2026/02/09-10:44:16.633 2e30 Level-0 table #5: 1000157 bytes OK
+2026/02/09-10:44:16.636 2e30 Delete type=0 #3
+2026/02/09-10:44:19.165 2e30 Level-0 table #7: started
+2026/02/09-10:44:19.183 2e30 Level-0 table #7: 1046327 bytes OK
+2026/02/09-10:44:19.186 2e30 Delete type=0 #4
+2026/02/09-10:44:19.327 5ac8 Compacting 1@1 + 1@2 files
+2026/02/09-10:44:19.358 5ac8 Generated table #8@1: 24711 keys, 906115 bytes
+2026/02/09-10:44:19.358 5ac8 Compacted 1@1 + 1@2 files => 906115 bytes
+2026/02/09-10:44:19.360 5ac8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/09-10:44:19.360 5ac8 Delete type=2 #5
+2026/02/09-10:44:19.361 5ac8 Delete type=2 #7

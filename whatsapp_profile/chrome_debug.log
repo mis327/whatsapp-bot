@@ -1,0 +1,11 @@
+[13216:49232:0802/130647.743:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[37032:39060:0802/130647.873:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[33156:52944:0802/130647.887:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[26712:65424:0802/130647.908:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[39036:71636:0802/130648.092:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[45324:18456:0802/130648.163:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[13216:49232:0802/130648.460:INFO:CONSOLE:163] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yP/r/oQNa3Ff_q72.js (163)
+[70100:11104:0802/130648.987:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[71708:72920:0802/130655.814:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[11036:72004:0802/130656.009:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 12
+[13216:61516:0802/130657.826:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT

@@ -1,0 +1,25 @@
+2026/02/08-14:36:30.550 51f4 Reusing MANIFEST D:\Task Management\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/08-14:36:30.551 51f4 Recovering log #888
+2026/02/08-14:36:30.584 51f4 Reusing old log D:\Task Management\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000888.log 
+2026/02/08-14:36:30.584 51f4 Delete type=2 #885
+2026/02/08-14:36:30.585 51f4 Delete type=2 #886
+2026/02/08-14:36:30.585 51f4 Delete type=2 #889
+2026/02/08-14:36:38.320 48a0 Level-0 table #894: started
+2026/02/08-14:36:38.342 48a0 Level-0 table #894: 1251372 bytes OK
+2026/02/08-14:36:38.344 48a0 Delete type=0 #888
+2026/02/08-14:36:38.533 48a0 Compacting 1@1 + 2@2 files
+2026/02/08-14:36:38.594 48a0 Generated table #895@1: 84622 keys, 2233057 bytes
+2026/02/08-14:36:38.634 48a0 Generated table #896@1: 49372 keys, 1782234 bytes
+2026/02/08-14:36:38.634 48a0 Compacted 1@1 + 2@2 files => 4015291 bytes
+2026/02/08-14:36:38.635 48a0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/02/08-14:36:39.890 48a0 Level-0 table #898: started
+2026/02/08-14:36:39.908 48a0 Level-0 table #898: 1052509 bytes OK
+2026/02/08-14:36:39.910 48a0 Delete type=2 #890
+2026/02/08-14:36:39.910 48a0 Delete type=2 #891
+2026/02/08-14:36:39.910 48a0 Delete type=0 #893
+2026/02/08-14:36:39.910 48a0 Delete type=2 #894
+2026/02/08-14:36:39.916 48a0 Compacting 1@1 + 2@2 files
+2026/02/08-14:36:39.984 48a0 Generated table #899@1: 85671 keys, 2236378 bytes
+2026/02/08-14:36:40.027 48a0 Generated table #900@1: 57651 keys, 1993501 bytes
+2026/02/08-14:36:40.028 48a0 Compacted 1@1 + 2@2 files => 4229879 bytes
+2026/02/08-14:36:40.029 48a0 compacted to: files[ 0 0 2 0 0 0 0 ]
